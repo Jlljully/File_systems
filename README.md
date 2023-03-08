@@ -62,11 +62,13 @@
 
 ![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_1.png "1")
 
+**Оказывается, он не может сделать два раздела extended, пришлось второй сделать primary**
+
 5. Используя `sfdisk`, перенесите эту таблицу разделов на второй диск.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_2.png "2")
 
 6. Соберите `mdadm` RAID1 на паре разделов 2 Гб.
 
