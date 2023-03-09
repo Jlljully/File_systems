@@ -146,19 +146,19 @@
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_18.png "15")
 
 17. Сделайте `--fail` на устройство в вашем RAID1 md.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_19.png "16")
 
 18. Подтвердите выводом `dmesg`, что RAID1 работает в деградированном состоянии.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_20.png "17")
 
 19. Протестируйте целостность файла — он должен быть доступен несмотря на «сбойный» диск:
 
@@ -170,7 +170,7 @@
 
 ### Ответ 
 
-
+**Выше**
 
 20. Погасите тестовый хост — `vagrant destroy`.
 
