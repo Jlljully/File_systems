@@ -64,11 +64,13 @@
 
 ![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_3.png "2")
 
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_4.png "3")
+
 5. Используя `sfdisk`, перенесите эту таблицу разделов на второй диск.
 
 ### Ответ 
 
-![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_2.png "3")
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_2.png "4")
 
 6. Соберите `mdadm` RAID1 на паре разделов 2 Гб.
 
