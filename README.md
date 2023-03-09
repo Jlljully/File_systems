@@ -70,19 +70,19 @@
 
 ### Ответ 
 
-![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_2.png "4")
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_5.png "4")
 
 6. Соберите `mdadm` RAID1 на паре разделов 2 Гб.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_6.png "5")
 
 7. Соберите `mdadm` RAID0 на второй паре маленьких разделов.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_7.png "6")
 
 8. Создайте два независимых PV на получившихся md-устройствах.
 
