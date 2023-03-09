@@ -60,6 +60,8 @@
 
 ### Ответ 
 
+**Сделала сначала extended, а с ним не работает дальше ничего, пришлось пересоздать 2-х гиговый тоже как primary:**
+
 ![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_11.png "1")
 
 ![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_3.png "2")
