@@ -110,25 +110,25 @@
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_13.png "10")
 
 12. Смонтируйте этот раздел в любую директорию, например, `/tmp/new`.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_14.png "11")
 
 13. Поместите туда тестовый файл, например, `wget https://mirror.yandex.ru/ubuntu/ls-lR.gz -O /tmp/new/test.gz`.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_15.png "12")
 
 14. Прикрепите вывод `lsblk`.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_16.png "13")
 
 15. Протестируйте целостность файла:
 
@@ -140,7 +140,7 @@
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_17.png "14")
 
 16. Используя pvmove, переместите содержимое PV с RAID0 на RAID1.
 
