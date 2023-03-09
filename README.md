@@ -78,6 +78,8 @@
 
 ### Ответ 
 
+**ой, ну я сначала сделала 7 пункт, помто 6, получается:**
+
 ![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_7.png "5")
 
 7. Соберите `mdadm` RAID0 на второй паре маленьких разделов.
