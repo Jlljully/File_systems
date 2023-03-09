@@ -92,19 +92,19 @@
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_9.png "7")
 
 9. Создайте общую volume-group на этих двух PV.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_10.png "8")
 
 10. Создайте LV размером 100 Мб, указав его расположение на PV с RAID0.
 
 ### Ответ 
 
-
+![Скрин](https://github.com/Jlljully/File_systems/blob/main/Screenshot_12.png "9")
 
 11. Создайте `mkfs.ext4` ФС на получившемся LV.
 
